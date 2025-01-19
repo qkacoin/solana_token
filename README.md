@@ -1,7 +1,7 @@
 # solana_token
 how to create a solana_token in ubuntu20.04
 
-# Solana CLI Guide and initai a token
+# Solana CLI Guide and initai a token on devnet
 
 ## System
 
